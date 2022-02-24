@@ -2,8 +2,8 @@
 
 ![Edwin Iram Linares Gona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edlingao&&show_icons=true&title_color=EEC643&icon_color=E63462&text_color=BFD7EA&bg_color=0b3954)
 
-- 🔭 I’m currently working on Vocces Lab!
-- 🌱 I’m currently learning VueJS
+- 🔭 I’m currently working at Luxoft!
+- 🌱 I’m currently learning Vite
 - 💬 Ask me about VanillJS, I really love that language!
 - 📫 sonido244@gmail.com < You know what to do ;)
 - ⚡ Fun fact: > Paleontologists use fossil evidence preserved in ancient rock to discover how long-extinct animals lived and behaved. 
