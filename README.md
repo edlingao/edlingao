@@ -4,7 +4,7 @@
 
 - I’m currently working at JumpCloud
 - I’m actively using GO for everything humanly possible (Long live the gopher)
-- edlingao@edlingao.com < You know what to do ;)
+- edlingao@edlingao.com <- You know what to do ;)
 - Fun fact: > Paleontologists use fossil evidence preserved in ancient rock to discover how long-extinct animals lived and behaved. 
 
 <!--
